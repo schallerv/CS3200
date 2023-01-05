@@ -1,2 +1,1 @@
-# cs3200
-Coursework for Database Design
+# Coursework for Database Design
